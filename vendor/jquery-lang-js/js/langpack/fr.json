@@ -1,0 +1,20 @@
+{
+    "token": {
+        "Hello, I am": "Salut, je m'appelle",
+        "Location": "Adresse",
+        "Address": "Adresse",
+        "Name": "Nom",
+        "Your name": "Votre Nom",
+        "Your email": "Votre adresse email",
+        "Subject": "Sujet",
+        "Phone": "Téléphone",
+        "Send": "Envoyer",
+        "Skills": "Compétences",
+        "My skills": "Mes compétences",
+        "Designed by": "Créé par",
+        "All rights reserved": "Tous droits réservés",
+        "My resume": "Mon CV",
+        "About me": "A propos de moi",
+        "Languages and Technologies": "Langages et Technologies"
+    }
+}
